@@ -1,0 +1,1 @@
+#Rich customized HTML5 Responsive Template
