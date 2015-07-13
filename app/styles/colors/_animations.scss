@@ -1,0 +1,8 @@
+@keyframes opct {
+		0% {
+			fill: $icon-colors;
+			}
+		100% {
+			fill: transparentize($icon-colors, 0.5);
+		}
+	}

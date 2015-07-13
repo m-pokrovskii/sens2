@@ -1,0 +1,36 @@
+$main_bg: #000;
+$main_color: #fff;
+$second_color: #ED6639;
+$link_color: #fff;
+$icon-colors: #ED6639;
+
+$odd-bg: lighten($main_bg, 70%);
+$even-bg: lighten($main_bg, 50%);
+$odd-headline-color: #fff;
+$even-headline-color: #fff;
+
+
+$video-element__title: #222;
+$video-element-title_color: #ED6639;
+
+$tag_bg: $main_bg;
+$tag_border: lighten($tag_bg, 20%);
+$tag-color: $second_color;
+$dropdown-menu-lang_color: #fff;
+$video-element-count_color: transparentize($main_color, 0.5);
+
+$site-rating-list__counter: $link_color;
+$title-container_color: #000;
+$video-element__caption: $main_bg;
+
+$video-element__caption: $main_bg;
+$video-element__caption_shadow: $video-element__caption;
+$player-container__published: $main_color;
+
+$dropdown-menu-lang_color: $link_color;
+
+$caption__sitename_a: $video-element-title_color;
+$caption__tag_hover_bg: $tag_border;
+
+$breadcrumbs-container_COLOR: $main_color;
+$breadcrumbs-container-link_COLOR: $link_color;

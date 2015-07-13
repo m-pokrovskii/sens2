@@ -1,0 +1,33 @@
+$main_bg: #7F7F7F;
+$main_color: #fff;
+$second_color: #ccc;
+$link_color: #7F5959;
+$icon-colors: #ccc;
+
+$odd-bg: #fff;
+$even-bg: #ccc;
+$odd-headline-color: #ccc;
+$even-headline-color: #fff;
+
+$video-element__title: #7F7F7F;
+$video-element-title_color: #fff;
+
+$tag_bg: $main_bg;
+$tag_border: lighten($tag_bg, 20%);
+$dropdown-menu-lang_color: #fff;
+$video-element-count_color: transparentize(#fff, 0.5);
+
+$site-rating-list__counter: $link_color;
+$title-container_color: $odd-headline-color;
+
+$video-element__caption: $main_bg;
+$video-element__caption_shadow: $video-element__caption;
+$player-container__published: $link-color;
+
+$dropdown-menu-lang_color: $link_color;
+
+$caption__sitename_a: $main-color;
+$caption__tag_hover_bg: $tag_border;
+
+$breadcrumbs-container_COLOR: $main_color;
+$breadcrumbs-container-link_COLOR: $link_color;

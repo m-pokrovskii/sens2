@@ -1,0 +1,20 @@
+.commercial-item {
+	display: inline-block;
+	margin: 0 5px;
+	}
+
+.commercial-item:nth-child(4) {
+	@media (max-width: 1350px) {
+		display: none;
+		}
+	}
+
+.commercial-item:nth-child(5) {
+	@media (max-width: 1750px) {
+		display: none;
+		}
+	}
+
+.commercial-item img {
+	width: 100%;
+	}

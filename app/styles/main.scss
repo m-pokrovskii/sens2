@@ -1,0 +1,22 @@
+@import "global"; 
+@import "layouts/video-grid-container";
+@import "layouts/wanted-container";
+@import "layouts/tags-container";
+@import "layouts/related-container";
+@import "layouts/rating-container";
+@import "layouts/commercial-container";
+@import "layouts/breadcrumbs-container";
+@import "layouts/title-container";
+@import "layouts/video-player-container";
+
+@import "components/video-element";
+@import "components/tag";
+@import "components/tag-list";
+@import "components/rel-item";
+@import "components/site-rating-list";
+@import "components/navbar";
+@import "components/commercial-item";
+@import "components/cover-commercial";
+@import "components/caption";
+
+@import "rtl"

@@ -1,0 +1,14 @@
+.tag {
+	padding: 5px;
+	margin-bottom: 2px; margin-top: 2px;
+	font-size: 12px;
+	display: inline-block;
+	border: solid 1px #337ab7; 
+	border-radius: 3px;
+	white-space: nowrap;
+	&:hover {
+		background: #337ab7;
+		color: #FFF;
+		text-decoration: none;
+		}
+	}

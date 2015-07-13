@@ -1,0 +1,26 @@
+body.v2 {
+	font-family: "Trebuchet MS";
+	}
+
+h2 {
+	margin: 0 0 20px 0;
+	font-size: 24px;
+	font-weight: 700;
+	}
+
+.layout {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	}
+
+.list-unstyled {
+	padding: 0;
+	}
+
+body {
+	@media (min-width: 768px) {
+		padding-left: 60px;	
+		padding-top: 0;
+		}
+	}
+

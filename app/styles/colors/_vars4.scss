@@ -1,0 +1,35 @@
+$main_bg: #e2da99;
+$main_color: #2b2301;
+$second_color: #73afb6;
+$link_color: #509ca0;
+$icon-colors: #2b2301;
+
+$odd-bg: lighten($main_bg, 10%);
+$even-bg: lighten($main_bg, 15%);
+$odd-headline-color: #000;
+$even-headline-color: #000;
+
+
+$video-element__title: $main_bg;
+$video-element-title_color: $main_color;
+
+$tag_bg: #2b2301;
+$tag_border: #342800;
+$dropdown-menu-lang_color: #fff;
+$video-element-count_color: transparentize($main_color, 0.5);
+
+$site-rating-list__counter: $link_color;
+$title-container_color: #000;
+$video-element__caption: $main_bg;
+
+$video-element__caption: $main_bg;
+$video-element__caption_shadow: $video-element__caption;
+$player-container__published: $main_color;
+
+$dropdown-menu-lang_color: $link_color;
+
+$caption__sitename_a: $link-color;
+$caption__tag_hover_bg: $tag_border;
+
+$breadcrumbs-container_COLOR: $main_color;
+$breadcrumbs-container-link_COLOR: $link_color;

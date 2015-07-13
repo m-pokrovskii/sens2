@@ -1,0 +1,29 @@
+.tag-list {
+	margin: 0;
+	}
+
+	.tag-list dt {
+		font-weight: 700;
+		font-size: 18px;
+		background: #333;
+		padding: 3px 10px;
+		color: #FFF;
+		}
+
+	.tag-list dd {
+		margin: 0;
+		padding: 10px 10px;
+		}
+
+	.tag-list dd ul {
+		margin-bottom: 0;
+		}
+
+.v2 .tag-list {
+	margin-bottom: 30px;
+	}
+
+.v2 .tag-list dd {
+	background: #333;
+	margin-top: 5px;
+	}

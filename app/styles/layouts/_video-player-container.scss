@@ -1,0 +1,38 @@
+.video-player-container {
+	background: #fff;
+	.commercial-item {
+		margin-bottom: 10px;
+		}
+	}
+
+.player-container {
+	min-height: 100%;
+	margin-bottom: 30px;
+	}
+
+.iframe-wrap {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	margin-bottom: 10px;
+	height: 0;
+	}
+
+.player-container iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	}
+
+.player-container__sitename {
+	font-size: 12px;
+	padding: 3px 5px;
+  border-radius: 3px;
+	}
+
+.player-container__published {
+	font-size: 12px;
+	}
+ 
